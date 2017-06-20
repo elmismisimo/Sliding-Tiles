@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string translatable="false" name="app_id">1055...</string>
+    <string translatable="false" name="leaderboard_easy">CgkI7...</string>
+    <string translatable="false" name="leaderboard_medium">CgkI7...</string>
+    <string translatable="false" name="leaderboard_hard">CgkI7...</string>
+
+    <string translatable="false" name="achievement_easy_mode">CgkI7...</string>
+    <string translatable="false" name="achievement_easy_winner">CgkI7...</string>
+    <string translatable="false" name="achievement_easy_master">CgkI7...</string>
+    <string translatable="false" name="achievement_easy_lord">CgkI7...</string>
+    <string translatable="false" name="achievement_medium_mode">CgkI7...</string>
+    <string translatable="false" name="achievement_medium_winner">CgkI7...</string>
+    <string translatable="false" name="achievement_medium_master">CgkI7...</string>
+    <string translatable="false" name="achievement_medium_lord">CgkI7...</string>
+    <string translatable="false" name="achievement_hard_mode">CgkI7...</string>
+    <string translatable="false" name="achievement_hard_winner">CgkI7...</string>
+    <string translatable="false" name="achievement_hard_master">CgkI7...</string>
+    <string translatable="false" name="achievement_hard_lord">CgkI7...</string>
+    <string translatable="false" name="achievement_winner">CgkI7...</string>
+    <string translatable="false" name="achievement_master">CgkI7...</string>
+    <string translatable="false" name="achievement_lord">CgkI7...</string>
+    <string translatable="false" name="achievement_who_is_that_guy">CgkI7...</string>
+    <string translatable="false" name="achievement_oh_my_eyes">CgkI7...</string>
+
+</resources>
