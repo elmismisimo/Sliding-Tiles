@@ -503,11 +503,10 @@ public class FragmentMain extends Fragment {
             {
                 try {
                     interstitialAd = new InterstitialAd(getActivity());
-                    interstitialAd.setAdUnitId("ca-app-pub-5066758545463777/1541640649");
+                    interstitialAd.setAdUnitId("ca-app-pub-5066...");
 
                     // Create ad request.
                     AdRequest adRequest = new AdRequest.Builder()
-                            //.addTestDevice("1B3FD01EDB6D8258FA8A938E6C654D33")
                             .build();
 
                     // Begin loading your interstitial.
