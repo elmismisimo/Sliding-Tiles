@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string translatable="false" name="app_id">1055067679470</string>
+    <string translatable="false" name="leaderboard_easy">CgkI7tW8t9oeEAIQAQ</string>
+    <string translatable="false" name="leaderboard_medium">CgkI7tW8t9oeEAIQAg</string>
+    <string translatable="false" name="leaderboard_hard">CgkI7tW8t9oeEAIQAw</string>
+
+    <string translatable="false" name="achievement_easy_mode">CgkI7tW8t9oeEAIQBA</string>
+    <string translatable="false" name="achievement_easy_winner">CgkI7tW8t9oeEAIQBQ</string>
+    <string translatable="false" name="achievement_easy_master">CgkI7tW8t9oeEAIQBg</string>
+    <string translatable="false" name="achievement_easy_lord">CgkI7tW8t9oeEAIQBw</string>
+    <string translatable="false" name="achievement_medium_mode">CgkI7tW8t9oeEAIQCA</string>
+    <string translatable="false" name="achievement_medium_winner">CgkI7tW8t9oeEAIQCQ</string>
+    <string translatable="false" name="achievement_medium_master">CgkI7tW8t9oeEAIQCg</string>
+    <string translatable="false" name="achievement_medium_lord">CgkI7tW8t9oeEAIQCw</string>
+    <string translatable="false" name="achievement_hard_mode">CgkI7tW8t9oeEAIQDA</string>
+    <string translatable="false" name="achievement_hard_winner">CgkI7tW8t9oeEAIQDQ</string>
+    <string translatable="false" name="achievement_hard_master">CgkI7tW8t9oeEAIQDg</string>
+    <string translatable="false" name="achievement_hard_lord">CgkI7tW8t9oeEAIQDw</string>
+    <string translatable="false" name="achievement_winner">CgkI7tW8t9oeEAIQEA</string>
+    <string translatable="false" name="achievement_master">CgkI7tW8t9oeEAIQEQ</string>
+    <string translatable="false" name="achievement_lord">CgkI7tW8t9oeEAIQEg</string>
+    <string translatable="false" name="achievement_who_is_that_guy">CgkI7tW8t9oeEAIQEw</string>
+    <string translatable="false" name="achievement_oh_my_eyes">CgkI7tW8t9oeEAIQFA</string>
+
+</resources>

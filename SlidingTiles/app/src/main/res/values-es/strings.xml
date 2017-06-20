@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">Sliding Tiles</string>
+    <string name="app_name_by">by SanderSoft</string>
+
+    <string name="moves">Movidas</string>
+
+    <string name="cancel">Cancelar</string>
+
+    <string name="play">Jugar</string>
+    <string name="easy">Fácil</string>
+    <string name="medium">Medio</string>
+    <string name="hard">Difícil</string>
+    <string name="google_play">Google Play</string>
+    <string name="google_play_desc">Conectar a Google Play Games</string>
+    <string name="connected">Conectado</string>
+    <string name="disconnected">Desconectado</string>
+    <string name="leaderboards">Tablas de clasificación</string>
+    <string name="achievements">Logros</string>
+    <string name="on">ON</string>
+    <string name="off">OFF</string>
+    <string name="sound">Sonido</string>
+    <string name="light">Cambiar a Tema Oscuro</string>
+    <string name="dark">Cambiar a Tema Claro</string>
+    <string name="restart">Reiniciar</string>
+    <string name="quit">Salir</string>
+    <string name="settings">Ajustes</string>
+
+    <string name="congrats">¡Felicidades!</string>
+    <string name="completed">¡Haz completado el puzzle XXX!</string>
+    <string name="game_over">Juego Terminado</string>
+    <string name="new_game">Nuevo Juego</string>
+
+    <string name="about">Creado y Desarrollado por</string>
+    <string name="version">Versión:</string>
+
+    <string name="menu_rate">Calificanos</string>
+    <string name="menu_support">Apoyanos</string>
+    <string name="support_desc">Sandersoft es un Estudio de Desarrollo Independiente donde creemos en opciones gratuitas para compartir con el resto del mundo, ¡sin embargo también nos gusta mucho comer!\nPero no te bombardearemos con publicidad molesta e inoportuna.\nEs tu decisión decidir si nos apoyas o no. No juzgaremos.\nSi deseas apoyarnos, presiona el botón APOYAR (en cuanto se habilite) y se desplegará un anuncio, dale click y ¡estaremos muy, muy agradecidos!\n¡Muchas Gracias!</string>
+    <string name="support_btn">APOYAR</string>
+
+    <string name="tutorial_t">Cómo Jugar</string>
+    <string name="tutorial_1">Sliding Tiles es un juego de puzzle donde tienes que acomodar bloques uno por uno en orden y posición correcto, sobre una reticula o tablero.</string>
+    <string name="tutorial_2_t">Mover Bloques</string>
+    <string name="tutorial_2">Para mover un bloque solo tienes que presionarlo y, si el bloque tiene un espacio libre en alguno de sus lados, el se moverá y se posiconará en ese espacio vacío.</string>
+    <string name="tutorial_3_t">Posición y Orden</string>
+    <string name="tutorial_3">Hay cierto numero de bloques por puzzle, y tienes que ordenarlas empezando con el Bloque 1 en la parte superior izquierda del tablero, seguido por el Bloque 2 a la derecha, y luego el Bloque 3 y así hasta el fin del renglón.\nCada ranglón debe comenzar con el Bloque siguiente al último del renglón anterior.\n1 2 3\n4 5 6\n7 8</string>
+    <string name="tutorial_4_t">Condiciones de Juego Terminado</string>
+    <string name="tutorial_4">El juego termina cuando todos los bloques se acomodan en el lugar y orden correcto.\nSliding Tiles es un juego de puzzle retante donde tienes que ordenar los bloques siguientes sin desordenar los que ya están en el lugar correcto.\n¡Buena suerte!</string>
+    <string name="tutorial_next">Siguiente</string>
+    <string name="tutorial_skip">Saltar Tutorial</string>
+    <string name="tutorial_play">¡A Jugar!</string>
+
+</resources>

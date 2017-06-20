@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/lay_game"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    >
+
+    <RelativeLayout
+        android:id="@+id/lay_header"
+        android:layout_width="match_parent"
+        android:layout_height="40dp">
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:orientation="horizontal"
+            >
+
+            <TextView
+                android:id="@+id/lbl_moves_title"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="5dp"
+                android:layout_marginLeft="5dp"
+                android:text="@string/moves"
+                android:textColor="@color/color_Text"
+                android:textSize="9pt"
+                android:textStyle="bold"/>
+            <TextView
+                android:id="@+id/lbl_moves"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="000"
+                android:textColor="@color/color_Accent"
+                android:textSize="10pt"
+                android:textStyle="bold"/>
+
+        </LinearLayout>
+
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:orientation="horizontal"
+            >
+
+            <ImageView
+                android:id="@+id/btn_game_google"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:layout_marginRight="10dp"
+                android:layout_gravity="right"
+                android:src="@mipmap/google_w"
+                android:background="@drawable/btn"/>
+
+            <ImageView
+                android:id="@+id/btn_restart_game"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:layout_marginRight="10dp"
+                android:src="@mipmap/restart_w"
+                android:background="@drawable/btn"/>
+
+        </LinearLayout>
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/lay_header"
+        >
+
+        <android.support.v7.widget.RecyclerView
+            android:id="@+id/board"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            />
+
+    </RelativeLayout>
+
+    <LinearLayout
+        android:id="@+id/lay_menu"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:orientation="horizontal"
+        android:background="#55000000"
+        android:visibility="gone">
+
+        <ViewFlipper
+            android:id="@+id/sld_menu"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <include layout="@layout/layout_game_menu" />
+            <include layout="@layout/layout_settings" />
+            <include layout="@layout/layout_google" />
+            <include layout="@layout/layout_game_completed" />
+            <include layout="@layout/layout_game_over" />
+        </ViewFlipper>
+
+    </LinearLayout>
+</RelativeLayout>

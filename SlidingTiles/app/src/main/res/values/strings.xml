@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">Sliding Tiles</string>
+    <string name="app_name_by">by SanderSoft</string>
+
+    <string name="moves">Moves</string>
+
+    <string name="cancel">Cancel</string>
+
+    <string name="play">Play</string>
+    <string name="easy">Easy</string>
+    <string name="medium">Medium</string>
+    <string name="hard">Hard</string>
+    <string name="google_play">Google Play</string>
+    <string name="google_play_desc">Connect to Google Play Games</string>
+    <string name="connected">Connected</string>
+    <string name="disconnected">Disconnected</string>
+    <string name="leaderboards">Leaderboards</string>
+    <string name="achievements">Achievements</string>
+    <string name="on">ON</string>
+    <string name="off">OFF</string>
+    <string name="sound">Sound</string>
+    <string name="light">Switch to Dark Theme</string>
+    <string name="dark">Switch to Light Theme</string>
+    <string name="restart">Restart</string>
+    <string name="quit">Quit</string>
+    <string name="settings">Settings</string>
+
+    <string name="congrats">Congratulations!</string>
+    <string name="completed">You completed the XXX puzzle!</string>
+    <string name="game_over">Game Over</string>
+    <string name="new_game">New Game</string>
+
+    <string name="about">Created and Developed by</string>
+    <string name="version">Version:</string>
+
+    <string name="menu_rate">Rate Us</string>
+    <string name="menu_support">Support Us</string>
+    <string name="support_desc">SanderSoft is an Indie Developer Studio that believe in free options to share with the rest of the world, nonetheless we like to eat also!\nBut we wont bomb you with unsolicited and annoying ads.\nIts up to you to decide to support us or not. We wont judge.\nIf you do, press the button SUPPORT (as soon as the button is enabled) and an ad popup will show up, click it and we will be very, very thankful!\nThank You!</string>
+    <string name="support_btn">SUPPORT</string>
+
+    <string name="tutorial_t">How to Play</string>
+    <string name="tutorial_1">Sliding Tiles is a puzzle game where you have to arrange the tiles one by one in the correct order and position, over a grid.</string>
+    <string name="tutorial_2_t">Moving Tiles</string>
+    <string name="tutorial_2">To move a tile you just have to press it and, if the tile has an empty space beside it, it will move to that empty space.</string>
+    <string name="tutorial_3_t">Position and Order</string>
+    <string name="tutorial_3">There are a certain number of tiles per puzzle, and you have to arrange them starting with placing the Tile 1 in the upper left corner of the grid, then to the right place the Tile 2, then Tile 3 up to the end of the row.\nEvery row starts with the next Tile of the previous row.\n1 2 3\n4 5 6\n7 8</string>
+    <string name="tutorial_4_t">Game Over Conditions</string>
+    <string name="tutorial_4">The game finishes when you arrange all the tiles in the correct order and position.\nSliding Tiles is a challenging puzzle game where you have to arrange the next tiles avoiding moving the ones that are already on position.\nGood luck!</string>
+    <string name="tutorial_next">Next</string>
+    <string name="tutorial_skip">Skip Tutorial</string>
+    <string name="tutorial_play">Lets Play!</string>
+
+</resources>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/lay_game_play"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/color_Background"
+    android:gravity="center"
+    android:padding="5dp">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/lbl_play"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/play"
+                android:textSize="12pt"
+                android:textColor="@color/color_Text"
+                />
+
+            <Button
+                android:id="@+id/btn_easy"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="5dp"
+                android:background="@drawable/btn_menu"
+                android:text="@string/easy"
+                android:textColor="@color/color_Text"
+                />
+
+            <Button
+                android:id="@+id/btn_medium"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="5dp"
+                android:background="@drawable/btn_menu"
+                android:text="@string/medium"
+                android:textColor="@color/color_Text"
+                />
+
+            <Button
+                android:id="@+id/btn_hard"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="5dp"
+                android:background="@drawable/btn_menu"
+                android:text="@string/hard"
+                android:textColor="@color/color_Text"
+                />
+
+        </LinearLayout>
+    </ScrollView>
+
+
+</LinearLayout>
